@@ -1,0 +1,28 @@
+modules:
+  layer_burst_1:
+    class: src.layer_5_burst_accommodating_martinotti_cell_2_nmlcl000158_model:Layer5BurstAccommodatingMartinottiCell2Nmlcl000158Model
+    args:
+      model_path: data/render_xml_file.nml
+  layer_burst_2:
+    class: src.layer_5_burst_accommodating_martinotti_cell_3_nmlcl000159_model:Layer5BurstAccommodatingMartinottiCell3Nmlcl000159Model
+    args:
+      model_path: data/render_xml_file.nml
+  state_compare_mon:
+    class: src.state_comparison_monitor:StateComparisonMonitor
+    args:
+      max_points: 2000
+      min_dt: 1.0
+  state_metrics_mon:
+    class: src.state_metrics_monitor:StateMetricsMonitor
+    args:
+      max_points: 2000
+      min_dt: 1.0
+wiring:
+- from: layer_burst_1.state
+  to:
+  - state_compare_mon.state_a
+  - state_metrics_mon.state_a
+- from: layer_burst_2.state
+  to:
+  - state_compare_mon.state_b
+  - state_metrics_mon.state_b
