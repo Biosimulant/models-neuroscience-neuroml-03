@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000430
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000430
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_5_burst_stuttering_nest_basket_cell_4_nmlcl000430_model:Layer5BurstStutteringNestBasketCell4Nmlcl000430Model
   init_kwargs:
     model_path: data/render_xml_file.nml

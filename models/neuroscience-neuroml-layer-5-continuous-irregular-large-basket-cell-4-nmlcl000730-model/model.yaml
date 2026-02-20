@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000730
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000730
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_5_continuous_irregular_large_basket_cell_4_nmlcl000730_model:Layer5ContinuousIrregularLargeBasketCell4Nmlcl000730Model
   init_kwargs:
     model_path: data/render_xml_file.nml

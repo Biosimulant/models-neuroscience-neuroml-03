@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000444
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000444
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_6_burst_stuttering_martinotti_cell_3_nmlcl000444_model:Layer6BurstStutteringMartinottiCell3Nmlcl000444Model
   init_kwargs:
     model_path: data/render_xml_file.nml

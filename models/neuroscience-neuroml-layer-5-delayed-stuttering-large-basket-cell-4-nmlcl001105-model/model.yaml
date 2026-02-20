@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL001105
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL001105
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_5_delayed_stuttering_large_basket_cell_4_nmlcl001105_model:Layer5DelayedStutteringLargeBasketCell4Nmlcl001105Model
   init_kwargs:
     model_path: data/render_xml_file.nml

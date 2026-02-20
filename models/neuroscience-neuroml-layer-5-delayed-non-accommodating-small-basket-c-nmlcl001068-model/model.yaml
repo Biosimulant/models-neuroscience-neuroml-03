@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL001068
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL001068
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_5_delayed_non_accommodating_small_basket_c_nmlcl001068_model:Layer5DelayedNonAccommodatingSmallBasketCNmlcl001068Model
   init_kwargs:
     model_path: data/render_xml_file.nml

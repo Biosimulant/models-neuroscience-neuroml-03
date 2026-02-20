@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000269
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000269
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_6_burst_irregular_nest_basket_cell_3_nmlcl000269_model:Layer6BurstIrregularNestBasketCell3Nmlcl000269Model
   init_kwargs:
     model_path: data/render_xml_file.nml

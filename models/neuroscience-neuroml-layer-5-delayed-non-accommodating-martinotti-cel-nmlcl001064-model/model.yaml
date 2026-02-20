@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL001064
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL001064
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_5_delayed_non_accommodating_martinotti_cel_nmlcl001064_model:Layer5DelayedNonAccommodatingMartinottiCelNmlcl001064Model
   init_kwargs:
     model_path: data/render_xml_file.nml

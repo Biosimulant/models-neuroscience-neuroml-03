@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL001139
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL001139
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_4_spiny_stellate_nmlcl001139_model:Layer4SpinyStellateNmlcl001139Model
   init_kwargs:
     model_path: data/render_xml_file.nml

@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000156
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000156
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_5_burst_accommodating_large_basket_cell_5_nmlcl000156_model:Layer5BurstAccommodatingLargeBasketCell5Nmlcl000156Model
   init_kwargs:
     model_path: data/render_xml_file.nml

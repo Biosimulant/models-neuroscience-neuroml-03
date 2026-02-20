@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000552
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000552
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_5_continuous_accommodating_bipolar_cell_1_nmlcl000552_model:Layer5ContinuousAccommodatingBipolarCell1Nmlcl000552Model
   init_kwargs:
     model_path: data/render_xml_file.nml

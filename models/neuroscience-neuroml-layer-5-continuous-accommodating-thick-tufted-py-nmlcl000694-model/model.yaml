@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000694
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000694
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_5_continuous_accommodating_thick_tufted_py_nmlcl000694_model:Layer5ContinuousAccommodatingThickTuftedPyNmlcl000694Model
   init_kwargs:
     model_path: data/render_xml_file.nml

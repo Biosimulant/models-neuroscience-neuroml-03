@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL001140
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL001140
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_5_tufted_intrinsic_bursting_ib_pyramidal_nmlcl001140_model:Layer5TuftedIntrinsicBurstingIbPyramidalNmlcl001140Model
   init_kwargs:
     model_path: data/render_xml_file.nml

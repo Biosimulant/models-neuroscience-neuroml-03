@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000173
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000173
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_6_burst_accommodating_bitufted_cell_2_nmlcl000173_model:Layer6BurstAccommodatingBituftedCell2Nmlcl000173Model
   init_kwargs:
     model_path: data/render_xml_file.nml

@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000363
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000363
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_5_burst_non_accommodating_double_bouquet_c_nmlcl000363_model:Layer5BurstNonAccommodatingDoubleBouquetCNmlcl000363Model
   init_kwargs:
     model_path: data/render_xml_file.nml

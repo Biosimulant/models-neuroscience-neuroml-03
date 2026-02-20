@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL000433
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL000433
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_6_burst_stuttering_double_bouquet_cell_2_nmlcl000433_model:Layer6BurstStutteringDoubleBouquetCell2Nmlcl000433Model
   init_kwargs:
     model_path: data/render_xml_file.nml

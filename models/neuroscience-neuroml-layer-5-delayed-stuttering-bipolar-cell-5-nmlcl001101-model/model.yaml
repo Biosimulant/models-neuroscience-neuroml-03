@@ -18,7 +18,7 @@ upstream:
   original_url: https://neuroml-db.org/model_info?model_id=NMLCL001101
   download_url: https://neuroml-db.org/render_xml_file?modelID=NMLCL001101
   license: ''
-bsim:
+biosim:
   entrypoint: src.layer_5_delayed_stuttering_bipolar_cell_5_nmlcl001101_model:Layer5DelayedStutteringBipolarCell5Nmlcl001101Model
   init_kwargs:
     model_path: data/render_xml_file.nml
