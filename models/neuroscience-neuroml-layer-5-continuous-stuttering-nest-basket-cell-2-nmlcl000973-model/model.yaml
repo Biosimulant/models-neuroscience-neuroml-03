@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer5ContinuousStutteringNestBasketCell2Nmlcl000973Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer5Continuous Stuttering Nest Basket Cell2Nmlcl000973Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000973. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:
 - neuroscience

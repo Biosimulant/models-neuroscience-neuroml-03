@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer6BurstIrregularMartinottiCell5Nmlcl000266Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer6Burst Irregular Martinotti Cell5Nmlcl000266Model captures neuroscience layer 6 burst irregular martinotti behavior in the context of neuroscience, neuroml, neuroml_db using a neuroml_db-sourc. When you run it, you can observe state and evaluate how the modeled system changes across runs."
 standard: other
 tags:
 - neuroscience

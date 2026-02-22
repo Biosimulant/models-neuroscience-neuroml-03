@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer6BurstNonAccommodatingBipolarCell4Nmlcl000380Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer6Burst Non Accommodating Bipolar Cell4Nmlcl000380Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000380. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:
 - neuroscience

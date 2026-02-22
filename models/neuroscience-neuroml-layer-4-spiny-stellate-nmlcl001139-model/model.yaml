@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer4SpinyStellateNmlcl001139Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer4Spiny Stellate Nmlcl001139Model models neuroscience layer 4 spiny stellate nmlcl001139 dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL001139), focused on neuroscience. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:
 - neuroscience

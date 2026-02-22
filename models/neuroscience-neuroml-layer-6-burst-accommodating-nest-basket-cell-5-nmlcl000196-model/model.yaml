@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer6BurstAccommodatingNestBasketCell5Nmlcl000196Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer6Burst Accommodating Nest Basket Cell5Nmlcl000196Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000196), focused on neuroscience, neuroml. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:
 - neuroscience

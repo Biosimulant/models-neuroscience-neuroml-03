@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer5BurstIrregularDoubleBouquetCell3Nmlcl000234Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer5Burst Irregular Double Bouquet Cell3Nmlcl000234Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000234. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:
 - neuroscience

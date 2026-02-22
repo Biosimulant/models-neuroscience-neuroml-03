@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer5TuftedIntrinsicBurstingIbPyramidalNmlcl001140Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer5Tufted Intrinsic Bursting Ib Pyramidal Nmlcl001140Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL001140. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:
 - neuroscience

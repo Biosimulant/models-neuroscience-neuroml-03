@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer5BurstIrregularNestBasketCell5Nmlcl000246Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer5Burst Irregular Nest Basket Cell5Nmlcl000246Model represents neuroscience layer 5 burst irregular nest mechanisms from neuroml_db reference neuroml_db:NMLCL000246. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:
 - neuroscience

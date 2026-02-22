@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer5ContinuousAccommodatingChandelierCellNmlcl000564Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer5Continuous Accommodating Chandelier Cell Nmlcl000564Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000564. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:
 - neuroscience

@@ -1,7 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Cortical Circuits (COMBO_0073)'
-description: Neuroscience cortical circuits comparative space with 4 models, configured
-  as non-causal co-simulation.
+description: "Neuroscience Cortical Circuits (COMBO_0073) organizes layer_delayed_1, layer_spiny_2, layer_burst_3 into a comparative simulation setup to examine how cortical circuit motifs transform and propagate activity. When you run it, you can compare participant trajectories through shared runtime settings and routed output streams."
 models:
 - repo: Biosimulant/models-neuroscience-neuroml-03
   alias: layer_delayed_1

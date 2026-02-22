@@ -1,6 +1,6 @@
 schema_version: '2.0'
 title: 'Neuroscience: Layer6BurstAccommodatingBituftedCell1Nmlcl000172Model'
-description: Faithful wrapper of upstream NEUROML model.
+description: "Neuroscience Layer6Burst Accommodating Bitufted Cell1Nmlcl000172Model models neuroscience layer 6 burst accommodating bitufted dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000172), fo. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:
 - neuroscience
