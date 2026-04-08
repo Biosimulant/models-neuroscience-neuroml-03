@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer4DelayedNonAccommodatingNestBasketCeNmlcl001045Model'
+title: "Layer 4 Delayed Non-accommodating Nest Basket Cell (4)"
 description: "Neuroscience Layer4Delayed Non Accommodating Nest Basket Ce Nmlcl001045Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL001045. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

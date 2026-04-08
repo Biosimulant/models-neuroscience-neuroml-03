@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6BurstStutteringMartinottiCell2Nmlcl000443Model'
+title: "Layer 6 Burst Stuttering Martinotti Cell (2)"
 description: "Neuroscience Layer6Burst Stuttering Martinotti Cell2Nmlcl000443Model models neuroscience layer 6 burst stuttering martinotti dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000443), focu. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

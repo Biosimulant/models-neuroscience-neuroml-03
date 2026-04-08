@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5ContinuousAccommodatingThickTuftedPyNmlcl000690Model'
+title: "Layer 5 Continuous Accommodating Thick-tufted Pyramidal Cell with a late bifurcating apical tuft (4)"
 description: "Neuroscience Layer5Continuous Accommodating Thick Tufted Py Nmlcl000690Model captures core biological behavior in the context of neuroscience, neuroml, neuroml_db using a neuroml_db-sourced OTHER model. When you run it, you can observe state and evaluate how the modeled system changes across runs."
 standard: other
 tags:

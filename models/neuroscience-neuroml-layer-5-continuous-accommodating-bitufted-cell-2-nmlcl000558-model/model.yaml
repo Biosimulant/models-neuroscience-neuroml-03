@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5ContinuousAccommodatingBituftedCell2Nmlcl000558Model'
+title: "Layer 5 Continuous Accommodating Bitufted Cell (2)"
 description: "Neuroscience Layer5Continuous Accommodating Bitufted Cell2Nmlcl000558Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000558), focused on neuroscience, neurom. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

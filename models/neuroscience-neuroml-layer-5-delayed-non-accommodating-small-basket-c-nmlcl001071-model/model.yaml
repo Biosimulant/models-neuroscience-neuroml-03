@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5DelayedNonAccommodatingSmallBasketCNmlcl001071Model'
+title: "Layer 5 Delayed Non-accommodating Small Basket Cell (5)"
 description: "Neuroscience Layer5Delayed Non Accommodating Small Basket CNmlcl001071Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL001071), focused on neuroscience, neuro. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6BurstStutteringNestBasketCell4Nmlcl000450Model'
+title: "Layer 6 Burst Stuttering Nest Basket Cell (4)"
 description: "Neuroscience Layer6Burst Stuttering Nest Basket Cell4Nmlcl000450Model captures neuroscience layer 6 burst stuttering nest behavior in the context of neuroscience, neuroml, neuroml_db using a neuroml_db-sourced. When you run it, you can observe state and evaluate how the modeled system changes across runs."
 standard: other
 tags:

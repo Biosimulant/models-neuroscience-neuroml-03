@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6BurstAccommodatingDoubleBouquetCellNmlcl000181Model'
+title: "Layer 6 Burst Accommodating Double Bouquet Cell (5)"
 description: "Neuroscience Layer6Burst Accommodating Double Bouquet Cell Nmlcl000181Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000181. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

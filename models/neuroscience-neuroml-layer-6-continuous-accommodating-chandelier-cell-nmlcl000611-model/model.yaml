@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6ContinuousAccommodatingChandelierCellNmlcl000611Model'
+title: "Layer 6 Continuous Accommodating Chandelier Cell (5)"
 description: "Neuroscience Layer6Continuous Accommodating Chandelier Cell Nmlcl000611Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000611. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

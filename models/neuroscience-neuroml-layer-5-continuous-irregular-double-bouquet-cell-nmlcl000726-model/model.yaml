@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5ContinuousIrregularDoubleBouquetCellNmlcl000726Model'
+title: "Layer 5 Continuous Irregular Double Bouquet Cell (5)"
 description: "Neuroscience Layer5Continuous Irregular Double Bouquet Cell Nmlcl000726Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000726), focused on neuroscience, neur. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

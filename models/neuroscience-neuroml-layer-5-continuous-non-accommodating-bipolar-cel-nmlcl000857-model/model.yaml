@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5ContinuousNonAccommodatingBipolarCelNmlcl000857Model'
+title: "Layer 5 Continuous Non-accommodating Bipolar Cell (1)"
 description: "Neuroscience Layer5Continuous Non Accommodating Bipolar Cel Nmlcl000857Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000857), focused on neuroscience, neur. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5BurstNonAccommodatingBipolarCell4Nmlcl000360Model'
+title: "Layer 5 Burst Non-accommodating Bipolar Cell (4)"
 description: "Neuroscience Layer5Burst Non Accommodating Bipolar Cell4Nmlcl000360Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000360. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

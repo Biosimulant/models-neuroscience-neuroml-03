@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5DelayedNonAccommodatingChandelierCelNmlcl001052Model'
+title: "Layer 5 Delayed Non-accommodating Chandelier Cell (1)"
 description: "Neuroscience Layer5Delayed Non Accommodating Chandelier Cel Nmlcl001052Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL001052. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

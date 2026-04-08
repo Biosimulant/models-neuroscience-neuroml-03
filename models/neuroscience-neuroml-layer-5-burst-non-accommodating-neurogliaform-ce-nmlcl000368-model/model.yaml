@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5BurstNonAccommodatingNeurogliaformCeNmlcl000368Model'
+title: "Layer 5 Burst Non-accommodating Neurogliaform Cell (2)"
 description: "Neuroscience Layer5Burst Non Accommodating Neurogliaform Ce Nmlcl000368Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000368), focused on neuroscience, neur. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

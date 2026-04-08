@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6BurstIrregularDoubleBouquetCell5Nmlcl000256Model'
+title: "Layer 6 Burst Irregular Double Bouquet Cell (5)"
 description: "Neuroscience Layer6Burst Irregular Double Bouquet Cell5Nmlcl000256Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000256. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

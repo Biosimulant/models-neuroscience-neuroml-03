@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5BurstAccommodatingMartinottiCell4Nmlcl000160Model'
+title: "Layer 5 Burst Accommodating Martinotti Cell (4)"
 description: "Neuroscience Layer5Burst Accommodating Martinotti Cell4Nmlcl000160Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000160. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6BurstIrregularNestBasketCell3Nmlcl000269Model'
+title: "Layer 6 Burst Irregular Nest Basket Cell (3)"
 description: "Neuroscience Layer6Burst Irregular Nest Basket Cell3Nmlcl000269Model captures neuroscience layer 6 burst irregular nest behavior in the context of neuroscience, neuroml, neuroml_db using a neuroml_db-sourced OT. When you run it, you can observe state and evaluate how the modeled system changes across runs."
 standard: other
 tags:

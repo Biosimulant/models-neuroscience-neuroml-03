@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5BurstNonAccommodatingSmallBasketCelNmlcl000376Model'
+title: "Layer 5 Burst Non-accommodating Small Basket Cell (5)"
 description: "Neuroscience Layer5Burst Non Accommodating Small Basket Cel Nmlcl000376Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL000376. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

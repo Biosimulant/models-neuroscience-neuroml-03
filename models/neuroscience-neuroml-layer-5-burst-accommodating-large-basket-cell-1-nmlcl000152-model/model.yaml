@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5BurstAccommodatingLargeBasketCell1Nmlcl000152Model'
+title: "Layer 5 Burst Accommodating Large Basket Cell (1)"
 description: "Neuroscience Layer5Burst Accommodating Large Basket Cell1Nmlcl000152Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000152), focused on neuroscience, neuroml. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

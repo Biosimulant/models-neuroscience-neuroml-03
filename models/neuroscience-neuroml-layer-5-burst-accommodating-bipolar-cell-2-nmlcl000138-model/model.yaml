@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5BurstAccommodatingBipolarCell2Nmlcl000138Model'
+title: "Layer 5 Burst Accommodating Bipolar Cell (2)"
 description: "Neuroscience Layer5Burst Accommodating Bipolar Cell2Nmlcl000138Model models neuroscience layer 5 burst accommodating bipolar dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000138), focu. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

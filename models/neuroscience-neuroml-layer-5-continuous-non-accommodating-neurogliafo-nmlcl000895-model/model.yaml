@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5ContinuousNonAccommodatingNeurogliafoNmlcl000895Model'
+title: "Layer 5 Continuous Non-accommodating Neurogliaform Cell (4)"
 description: "Neuroscience Layer5Continuous Non Accommodating Neurogliafo Nmlcl000895Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000895), focused on neuroscience, neur. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

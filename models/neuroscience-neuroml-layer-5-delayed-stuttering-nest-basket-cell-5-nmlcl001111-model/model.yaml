@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5DelayedStutteringNestBasketCell5Nmlcl001111Model'
+title: "Layer 5 Delayed Stuttering Nest Basket Cell (5)"
 description: "Neuroscience Layer5Delayed Stuttering Nest Basket Cell5Nmlcl001111Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL001111), focused on neuroscience, neuroml. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

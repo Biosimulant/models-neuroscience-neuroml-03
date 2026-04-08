@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5BurstIrregularMartinottiCell4Nmlcl000240Model'
+title: "Layer 5 Burst Irregular Martinotti Cell (4)"
 description: "Neuroscience Layer5Burst Irregular Martinotti Cell4Nmlcl000240Model represents neuroscience layer 5 burst irregular martinotti mechanisms from neuroml_db reference neuroml_db:NMLCL000240. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5TuftedRegularSpikingRsPyramidalNmlcl001141Model'
+title: "Layer 5 Tufted Regular Spiking (RS) Pyramidal"
 description: "Neuroscience Layer5Tufted Regular Spiking Rs Pyramidal Nmlcl001141Model represents core biological mechanisms from neuroml_db reference neuroml_db:NMLCL001141. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

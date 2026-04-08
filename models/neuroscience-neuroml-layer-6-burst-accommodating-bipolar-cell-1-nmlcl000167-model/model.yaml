@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6BurstAccommodatingBipolarCell1Nmlcl000167Model'
+title: "Layer 6 Burst Accommodating Bipolar Cell (1)"
 description: "Neuroscience Layer6Burst Accommodating Bipolar Cell1Nmlcl000167Model captures neuroscience layer 6 burst accommodating bipolar behavior in the context of neuroscience, neuroml, neuroml_db using a neuroml_db-sou. When you run it, you can observe state and evaluate how the modeled system changes across runs."
 standard: other
 tags:

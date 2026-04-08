@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer5BurstNonAccommodatingDoubleBouquetCNmlcl000366Model'
+title: "Layer 5 Burst Non-accommodating Double Bouquet Cell (5)"
 description: "Neuroscience Layer5Burst Non Accommodating Double Bouquet CNmlcl000366Model captures core biological behavior in the context of neuroscience, neuroml, neuroml_db using a neuroml_db-sourced OTHER model. When you run it, you can observe state and evaluate how the modeled system changes across runs."
 standard: other
 tags:

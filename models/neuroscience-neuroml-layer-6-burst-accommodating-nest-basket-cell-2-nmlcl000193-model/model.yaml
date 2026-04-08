@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6BurstAccommodatingNestBasketCell2Nmlcl000193Model'
+title: "Layer 6 Burst Accommodating Nest Basket Cell (2)"
 description: "Neuroscience Layer6Burst Accommodating Nest Basket Cell2Nmlcl000193Model models core biological dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000193), focused on neuroscience, neuroml. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

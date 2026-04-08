@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6BurstStutteringLargeBasketCell5Nmlcl000441Model'
+title: "Layer 6 Burst Stuttering Large Basket Cell (5)"
 description: "Neuroscience Layer6Burst Stuttering Large Basket Cell5Nmlcl000441Model models neuroscience layer 6 burst stuttering large dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000441), focused. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

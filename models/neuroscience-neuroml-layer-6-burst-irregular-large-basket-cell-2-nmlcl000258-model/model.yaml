@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6BurstIrregularLargeBasketCell2Nmlcl000258Model'
+title: "Layer 6 Burst Irregular Large Basket Cell (2)"
 description: "Neuroscience Layer6Burst Irregular Large Basket Cell2Nmlcl000258Model models neuroscience layer 6 burst irregular large dynamics as a OTHER simulation curated from neuroml_db (neuroml_db:NMLCL000258), focused o. When you run it, you can track state over time and compare response patterns across parameter settings."
 standard: other
 tags:

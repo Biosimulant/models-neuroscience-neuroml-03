@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6BurstAccommodatingBituftedCell2Nmlcl000173Model'
+title: "Layer 6 Burst Accommodating Bitufted Cell (2)"
 description: "Neuroscience Layer6Burst Accommodating Bitufted Cell2Nmlcl000173Model represents neuroscience layer 6 burst accommodating bitufted mechanisms from neuroml_db reference neuroml_db:NMLCL000173. When you run it, you can inspect state and compare temporal behavior between baseline and adjusted inputs."
 standard: other
 tags:

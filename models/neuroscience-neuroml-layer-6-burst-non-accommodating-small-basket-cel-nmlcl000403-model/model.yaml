@@ -1,5 +1,5 @@
 schema_version: '2.0'
-title: 'Neuroscience: Layer6BurstNonAccommodatingSmallBasketCelNmlcl000403Model'
+title: "Layer 6 Burst Non-accommodating Small Basket Cell (2)"
 description: "Neuroscience Layer6Burst Non Accommodating Small Basket Cel Nmlcl000403Model captures core biological behavior in the context of neuroscience, neuroml, neuroml_db using a neuroml_db-sourced OTHER model. When you run it, you can observe state and evaluate how the modeled system changes across runs."
 standard: other
 tags:
