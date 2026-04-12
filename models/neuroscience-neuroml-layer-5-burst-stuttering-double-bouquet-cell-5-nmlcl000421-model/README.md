@@ -16,9 +16,8 @@ This model was auto-generated from the neuroml_db repository.
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-neuroml-layer-5-burst-stuttering-double-bouquet-cell-5-nmlcl000421-model
     alias: model
-    manifest_path: models/neuroscience-neuroml-layer-5-burst-stuttering-double-bouquet-cell-5-nmlcl000421-model/model.yaml
 ```
 
 ## Tags

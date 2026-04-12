@@ -16,9 +16,8 @@ This model was auto-generated from the neuroml_db repository.
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-neuroml-layer-5-continuous-accommodating-small-basket-ce-nmlcl000595-model
     alias: model
-    manifest_path: models/neuroscience-neuroml-layer-5-continuous-accommodating-small-basket-ce-nmlcl000595-model/model.yaml
 ```
 
 ## Tags

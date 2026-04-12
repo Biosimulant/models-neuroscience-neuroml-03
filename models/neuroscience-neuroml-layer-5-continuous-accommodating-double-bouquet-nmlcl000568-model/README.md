@@ -16,9 +16,8 @@ This model was auto-generated from the neuroml_db repository.
 ```yaml
 # In a space.yaml wiring file:
 models:
-  - repo: Biosimulant/models
+  - path: ../../models/neuroscience-neuroml-layer-5-continuous-accommodating-double-bouquet-nmlcl000568-model
     alias: model
-    manifest_path: models/neuroscience-neuroml-layer-5-continuous-accommodating-double-bouquet-nmlcl000568-model/model.yaml
 ```
 
 ## Tags
